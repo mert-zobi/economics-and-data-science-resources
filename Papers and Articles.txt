@@ -12,6 +12,8 @@ https://www.nber.org/papers/w31529 (Lottery, Deposits)
 
 Methods:
 https://drive.google.com/file/d/1CgyJVd4SZJT1i5TzlnBGmzs94Rbu6uTQ/view (A/B Tests)
+https://ds4ps.org/PROG-EVAL-III/FixedEffects.html#
+https://econometricsense.blogspot.com/2014/04/intuition-for-fixed-effects.html
 
 Savings, investment, portfolio management:
 https://en.wikipedia.org/wiki/Markowitz_model
@@ -20,9 +22,12 @@ https://rforanalytics.com/01-Part_2_portfolio.html
 
 Statistics and Probability:
 https://medium.com/math-simplified/the-intuition-behind-bayes-theorem-977cce409b28
+https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcaststatistics.htm
 
 Misc.:
 https://ig.ft.com/subsea-cables/
 https://www.propublica.org/article/yieldstar-rent-increase-realpage-rent
 https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remove-all-tourist-apartments-in-2028-in-huge-win-for-anti-tourism-activists/ (Tourism)
 https://www.sciencedirect.com/science/article/abs/pii/S0924271624002612?dgcid=author (Street-level images)
+https://urazakgul.github.io/python-blog/posts/post_16/
+https://www.nature.com/articles/s41467-024-49141-z

@@ -4,6 +4,7 @@ https://scpoecon.github.io/ScPoEconometrics/
 
 Statistics:
 https://modernstatisticswithr.com/
+https://marginaleffects.com/
 
 Panel data: 
 https://ladal.edu.au/regression.html

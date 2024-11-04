@@ -14,6 +14,7 @@ Methods:
 https://drive.google.com/file/d/1CgyJVd4SZJT1i5TzlnBGmzs94Rbu6uTQ/view (A/B Tests)
 https://ds4ps.org/PROG-EVAL-III/FixedEffects.html#
 https://econometricsense.blogspot.com/2014/04/intuition-for-fixed-effects.html
+https://www.dataduets.com/2023/11/are-fixed-effects-really-fixed.html (fixed effects)
 
 Savings, investment, portfolio management:
 https://en.wikipedia.org/wiki/Markowitz_model
@@ -31,3 +32,5 @@ https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remov
 https://www.sciencedirect.com/science/article/abs/pii/S0924271624002612?dgcid=author (Street-level images)
 https://urazakgul.github.io/python-blog/posts/post_16/
 https://www.nature.com/articles/s41467-024-49141-z
+https://eprints.whiterose.ac.uk/211999/ (dota, esports)
+https://gurbook.com/ (games user design)

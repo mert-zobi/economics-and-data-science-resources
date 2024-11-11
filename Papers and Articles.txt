@@ -20,10 +20,14 @@ Savings, investment, portfolio management:
 https://en.wikipedia.org/wiki/Markowitz_model
 https://quantpedia.com/markowitz-model/
 https://rforanalytics.com/01-Part_2_portfolio.html
+https://www.nasdaq.com/articles/how-the-fed-impacts-our-personal-finances
+https://www.gold.org/goldhub/data (Gold)
 
 Statistics and Probability:
 https://medium.com/math-simplified/the-intuition-behind-bayes-theorem-977cce409b28
 https://pages.stern.nyu.edu/~adamodar/New_Home_Page/webcaststatistics.htm
+https://betterexplained.com/articles/understanding-the-birthday-paradox/
+https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/
 
 Misc.:
 https://ig.ft.com/subsea-cables/
@@ -34,3 +38,11 @@ https://urazakgul.github.io/python-blog/posts/post_16/
 https://www.nature.com/articles/s41467-024-49141-z
 https://eprints.whiterose.ac.uk/211999/ (dota, esports)
 https://gurbook.com/ (games user design)
+https://datacolada.org/
+https://un-two-zero.network/
+https://layoffs.fyi/ (layoff data)
+https://hindenburgresearch.com/adani/
+https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
+https://untools.co/
+
+

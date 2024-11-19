@@ -15,6 +15,10 @@ https://drive.google.com/file/d/1CgyJVd4SZJT1i5TzlnBGmzs94Rbu6uTQ/view (A/B Test
 https://ds4ps.org/PROG-EVAL-III/FixedEffects.html#
 https://econometricsense.blogspot.com/2014/04/intuition-for-fixed-effects.html
 https://www.dataduets.com/2023/11/are-fixed-effects-really-fixed.html (fixed effects)
+https://academic.oup.com/ectj/article/21/1/C1/5056401
+https://academic.oup.com/qje/article-abstract/119/1/249/1876068
+https://econml.azurewebsites.net/spec/estimation/dml.html
+https://arxiv.org/abs/2411.11559
 
 Savings, investment, portfolio management:
 https://en.wikipedia.org/wiki/Markowitz_model
@@ -44,5 +48,6 @@ https://layoffs.fyi/ (layoff data)
 https://hindenburgresearch.com/adani/
 https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/
 https://untools.co/
+https://docs.doubleml.org/stable/index.html
 
 

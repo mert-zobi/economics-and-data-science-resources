@@ -2,6 +2,9 @@ Econometrics:
 https://www.econometrics-with-r.org/
 https://scpoecon.github.io/ScPoEconometrics/
 
+Causality:
+https://miguelhernan.org/whatifbook
+
 Statistics:
 https://modernstatisticswithr.com/
 https://marginaleffects.com/
